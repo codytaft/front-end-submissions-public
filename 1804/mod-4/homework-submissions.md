@@ -34,7 +34,7 @@ Add a label of the homework with a link to the gist/repo/..etc for each homework
 
 ### Cody Taft
 
-* [Node Server Tutorial]()
+* [Node Server Tutorial](https://github.com/codytaft/node-lesson)
 * [Express Tutorial]() - What additional items did you work on?
 * [Promise Practice Exercises]()
 
